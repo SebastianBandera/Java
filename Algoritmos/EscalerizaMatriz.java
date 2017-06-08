@@ -2,7 +2,7 @@ public class EscalerizaMatriz {
     private static double[][] matriz = {{1.5,3.0,4.0},
                                         {1.0,2.0,3.0},
                                         {6.0,7.0,8.0}};
-    private static int cambios;
+    private static int cambios; 
     
     public static void main(String[] args) {
         System.out.println("Matriz original");
